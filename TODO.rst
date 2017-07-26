@@ -26,8 +26,6 @@ Below is an ever changing list of things that I would like to accomplish or impl
         - Matrix-Chain Multiplication
     - Huffman Encoding
     - Graph Algorithms
-        - Breadth-First Search
-        - Depth-First Search
         - Uniform Cost Search
         - A* Search
         - Topological Sort
